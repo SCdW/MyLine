@@ -1,6 +1,6 @@
 # My Line Test
 
-[![MATLAB](https://github.com/SCdW/actions/workflows/matlabci.yml/badge.svg)](https://github.com/SCdW/actions/workflows/matlabci.yml) 
+[![MATLAB](https://github.com/SCdW/MyLine/actions/workflows/matlabci.yml/badge.svg)](https://github.com/SCdW/MyLine/actions/workflows/matlabci.yml) 
 
 ## Overview
 This is a demo for introducing the unit testing framework in MATLAB. The content includes:    
